@@ -1,0 +1,19 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    color: black;
+}
+
+td {
+    text-align: center;
+}
+
+.total {
+    margin: auto;
+    width: 50%;
+}
+
+.mainTable {
+    margin-top: 100px;
+}
