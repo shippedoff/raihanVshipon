@@ -1,3 +1,9 @@
+h1,
+h2 {
+    font-family: "Sofia", sans-serif;
+    background: rgb(2, 0, 36);
+}
+
 table,
 th,
 td {
